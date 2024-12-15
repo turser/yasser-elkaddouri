@@ -24,7 +24,7 @@ export default function Navbar() {
         <div className='flex justify-between items-center'>
             <span>
                 <div className='text-2xl pb-1 cursor-pointer ps-4 md:ps-8 mt-2 xl:ps-0 h-20 xl:h-16 font-bold flex overflow-hidden'>
-                    <img src="./logo.png" loading='lazy' className='h-full w-full object-contain' alt="" />
+                    <img src="./logo.png" className='h-full w-full object-contain' alt="" />
                 </div>
             </span>
             <span className='text-3xl cursor-pointer mx-2 xl:hidden block' onClick={()=>Menu()}>
