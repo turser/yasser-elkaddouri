@@ -47,7 +47,7 @@ export default function About() {
             </a>
         </div>
         <div className='h-full mb-8'>
-          <img src="./goldpanther1.png" loading='lazy' className="cursor-pointer hover:scale-90 duration-1000 justify-self-center object-cover" alt='' />
+          <img src="./goldpanther1.png" className="cursor-pointer hover:scale-90 duration-1000 justify-self-center object-cover" alt='' />
         </div>
       </div>
       <div className='mt-24 xl:mt-36 mb-12'>
@@ -61,13 +61,13 @@ export default function About() {
             <div className="group relative w-24 h-24 overflow-hidden mb-4 group-hover:-translate-y-4 duration-700">
                 {/* Default Image */}
                 <img
-                  src={skill.url} loading='lazy'
+                  src={skill.url}
                   alt="Default"
                   className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700 group-hover:opacity-0"
                 />
                 {/* Hover Image */}
                 <img
-                  src={skill.hoverUrl} loading='lazy'
+                  src={skill.hoverUrl}
                   alt="Hover"
                   className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700 opacity-0 group-hover:opacity-100"
                 />
