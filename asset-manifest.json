@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yasser-elkaddouri/static/css/main.064dd90a.css",
+    "main.js": "/yasser-elkaddouri/static/js/main.30495c77.js",
+    "static/js/453.793de3c9.chunk.js": "/yasser-elkaddouri/static/js/453.793de3c9.chunk.js",
+    "index.html": "/yasser-elkaddouri/index.html",
+    "main.064dd90a.css.map": "/yasser-elkaddouri/static/css/main.064dd90a.css.map",
+    "main.30495c77.js.map": "/yasser-elkaddouri/static/js/main.30495c77.js.map",
+    "453.793de3c9.chunk.js.map": "/yasser-elkaddouri/static/js/453.793de3c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064dd90a.css",
+    "static/js/main.30495c77.js"
+  ]
+}
