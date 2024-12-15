@@ -10,7 +10,7 @@ export default function Profil() {
             <div className='grid xl:grid-cols-2 gap-4 items-center md:h-1/2 place-self-center'>
               <div className='h-64 xl:h-1/2 w-full grid items-center xl:pe-16'>
                 <div className='h-full overflow-hidden rounded-full border-yellow-gold bg-black border-opacity-60 border-8 aspect-square place-self-center xl:place-self-end'>
-                  <img loading="lazy" src="./profil.png" className='w-full h-full scale-90 hover:scale-100 transition-transform duration-1000 object-cover' alt="" />
+                  <img src="./profil.png" className='w-full h-full scale-90 hover:scale-100 transition-transform duration-1000 object-cover' alt="" />
                 </div>
               </div>
               <div className='xl:h-1/3 h-72  w-full grid'>
