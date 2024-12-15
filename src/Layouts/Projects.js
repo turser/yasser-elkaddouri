@@ -20,9 +20,9 @@ export default function Projects() {
             </p>
           </div>
           <div data-aos="fade-up" className='grid gap-4 h-full w-full xl:col-span-2 py-2 order-1 xl:order-2'>
-            <img src="./Portfolio/3.png" loading='lazy' className='rounded-2xl object-cover h-52 justify-self-center shadow-xl shadow-gray-600 hover:scale-110 duration-1000' alt="" />
-            <img src="./Portfolio/2.png" loading='lazy' className='rounded-2xl object-cover h-52 justify-self-center shadow-xl shadow-gray-600 hover:scale-110 duration-1000' alt="" />
-            <img src="./Portfolio/1.png" loading='lazy' className='rounded-2xl object-cover h-52 justify-self-center shadow-xl shadow-gray-600 hover:scale-110 duration-1000' alt="" />
+            <img src="./Portfolio/3.png" className='rounded-2xl object-cover h-52 justify-self-center shadow-xl shadow-gray-600 hover:scale-110 duration-1000' alt="" />
+            <img src="./Portfolio/2.png" className='rounded-2xl object-cover h-52 justify-self-center shadow-xl shadow-gray-600 hover:scale-110 duration-1000' alt="" />
+            <img src="./Portfolio/1.png" className='rounded-2xl object-cover h-52 justify-self-center shadow-xl shadow-gray-600 hover:scale-110 duration-1000' alt="" />
           </div>
         </div>
       </div>
